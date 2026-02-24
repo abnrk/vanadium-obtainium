@@ -1,1 +1,1 @@
-https://storage.googleapis.com/chromium-browser-snapshots/AndroidDesktop_arm64/1588477/chrome-android-desktop.zip
+https://storage.googleapis.com/chromium-browser-snapshots/AndroidDesktop_arm64/1589022/chrome-android-desktop.zip
