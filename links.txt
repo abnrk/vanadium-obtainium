@@ -1,1 +1,2 @@
-https://storage.googleapis.com/chromium-browser-snapshots/AndroidDesktop_arm64/1589757/chrome-android-desktop.zip
+https://apps.grapheneos.org/packages/app.vanadium.browser/763212033/base.apk
+https://apps.grapheneos.org/packages/app.vanadium.trichromelibrary/763212033/base.apk
