@@ -1,0 +1,48 @@
+{
+    "schemaVersion": 2,
+    "exportedAt": "2026-08-29T14:44:43.542535",
+    "appVersion": "0.0.0",
+    "apps": [
+        {
+            "id": "app.vanadium.browser",
+            "url": "https://raw.githubusercontent.com/abnrk/vanadium-obtainium/main/links.txt",
+            "author": "raw.githubusercontent.com",
+            "name": "Vanadium",
+            "installedVersion": "9252bfe0",
+            "latestVersion": "9252bfe0",
+            "apkUrls": "[[\"708720711-base.apk\",\"https://apps.grapheneos.org/packages/app.vanadium.browser/797706433/base.apk\"]]",
+            "otherAssetUrls": "[]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"https:\\\\/\\\\/apps.grapheneos.org\\\\/packages\\\\/app.vanadium.browser\\\\/.*\\\\/base.apk$\",\"filterByLinkText\":false,\"matchLinksOutsideATags\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"partialAPKHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"minimumUpdateAgeDays\":\"\",\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"url\":\"https://apps.grapheneos.org/packages/app.vanadium.browser/797706433/base.apk\"}",
+            "lastUpdateCheck": 1788011022955563,
+            "pinned": false,
+            "categories": [],
+            "releaseDate": null,
+            "changeLog": null,
+            "overrideSource": null,
+            "allowIdChange": false,
+            "pendingRepoRenameUrl": null
+        },
+        {
+            "id": "app.vanadium.trichromelibrary",
+            "url": "https://raw.githubusercontent.com/abnrk/vanadium-obtainium/main/links.txt",
+            "author": "raw.githubusercontent.com",
+            "name": "App",
+            "installedVersion": "bbe95b18",
+            "latestVersion": "bbe95b18",
+            "apkUrls": "[[\"62081176-base.apk\",\"https://apps.grapheneos.org/packages/app.vanadium.trichromelibrary/797706433/base.apk\"]]",
+            "otherAssetUrls": "[]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"https:\\\\/\\\\/apps.grapheneos.org\\\\/packages\\\\/app.vanadium.trichromelibrary\\\\/.*\\\\/base.apk\",\"filterByLinkText\":false,\"matchLinksOutsideATags\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"partialAPKHash\",\"trackOnly\":true,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"minimumUpdateAgeDays\":\"\",\"appName\":\"Trichrome Library\",\"appAuthor\":\"Vanadium\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"url\":\"https://apps.grapheneos.org/packages/app.vanadium.trichromelibrary/797706433/base.apk\"}",
+            "lastUpdateCheck": 1788010782961384,
+            "pinned": false,
+            "categories": [],
+            "releaseDate": null,
+            "changeLog": null,
+            "overrideSource": null,
+            "allowIdChange": false,
+            "pendingRepoRenameUrl": null
+        }
+    ],
+    "settings": null
+}
