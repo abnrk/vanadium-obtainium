@@ -1,2 +1,2 @@
-https://apps.grapheneos.org/packages/app.vanadium.browser/803705733/base.apk
-https://apps.grapheneos.org/packages/app.vanadium.trichromelibrary/803705733/base.apk
+https://apps.grapheneos.org/packages/app.vanadium.browser/803705833/base.apk
+https://apps.grapheneos.org/packages/app.vanadium.trichromelibrary/803705833/base.apk
